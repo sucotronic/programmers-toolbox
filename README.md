@@ -25,9 +25,10 @@ Features
 FAQ
 ---
 
-* ¿Why wxWidgets?
+* ¿Why Qt?
   
-  The program has to support main programmers platforms: mac, windows, linux.
+  The program has to support main programmers platforms: mac, windows, linux. Also
+  Qt has better doc than other cross platform frameworks ;)
 
 * ¿Why static binary?
 
